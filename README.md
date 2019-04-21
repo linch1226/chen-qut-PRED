@@ -1,5 +1,5 @@
 # Welcome to chen-qut-PRED, a  protein Quaternary Structural Type predictor.
-![chen-qut-pred](https://github.com/linch1226/chen-qut-PRED/blob/master/Img/flow.png)
+![chen-qut-pred](https://raw.githubusercontent.com/linch1226/chen-qut-PRED/master/Img/flow.png)
 Specific steps we can clearly see in the flow chart
 ## Prerequisites：
 ###### Python2.7 
